@@ -1,0 +1,22 @@
+* {
+    margin:0;
+    padding:0;
+}
+
+.regBTN {
+    margin-top: 2rem;
+}
+
+.container {
+    width: 80%;
+    height: 900px;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
+
+.register, .login {
+    width:40%;
+    height: 100%;
+}
+
